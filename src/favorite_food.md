@@ -1,3 +1,5 @@
 # favorite food
+noodle
 
-udon banana
+<<<<<<< HEAD
+=======
